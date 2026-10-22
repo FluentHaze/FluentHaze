@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">FF — Build something worth sharing</title>
+  <desc id="desc">Deep blue developer workspace with an animated orbital path and a terminal cursor.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09152c"/><stop offset="1" stop-color="#122949"/></linearGradient>
+    <linearGradient id="orbit"><stop stop-color="#41d9ed"/><stop offset=".5" stop-color="#8ba9ff"/><stop offset="1" stop-color="#41d9ed"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7296c5" stroke-opacity=".09"/></pattern>
+    <path id="track" d="M790 190a140 58 -30 1 0 280 0a140 58 -30 1 0 -280 0"/>
+  </defs>
+  <style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <rect width="1200" height="380" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+  <path d="M56 54H1144" stroke="#304764"/>
+  <circle cx="62" cy="32" r="5" fill="#ff8e93"/><circle cx="82" cy="32" r="5" fill="#f4d481"/><circle cx="102" cy="32" r="5" fill="#58dbb4"/>
+  <text x="1144" y="37" text-anchor="end" fill="#9ab2d0" font-family="monospace" font-size="14">~/FF</text>
+  <text x="64" y="111" fill="#58dbb4" font-family="monospace" font-size="18">$ hello, world</text>
+  <text x="58" y="207" fill="#f1f6ff" font-family="Verdana,sans-serif" font-size="88" font-weight="700" letter-spacing="-5">FF<tspan fill="#41d9ed">.</tspan></text>
+  <text x="64" y="253" fill="#b7cbe5" font-family="Verdana,sans-serif" font-size="23">Thoughtful code. Better experiences.</text>
+  <path d="M64 292H547" stroke="#304764"/>
+  <text x="64" y="330" fill="#9ab2d0" font-family="monospace" font-size="15">Performance. Architecture. Experience.</text>
+  <g fill="none" stroke="url(#orbit)">
+    <ellipse cx="930" cy="190" rx="148" ry="62" transform="rotate(-30 930 190)" stroke-opacity=".8"/>
+    <ellipse cx="930" cy="190" rx="148" ry="62" transform="rotate(30 930 190)" stroke-opacity=".35"/>
+    <circle cx="930" cy="190" r="100" stroke-dasharray="3 9" stroke-opacity=".35"/>
+  </g>
+  <circle cx="930" cy="190" r="48" fill="#16354f" stroke="#41d9ed" stroke-opacity=".5"/>
+  <text x="930" y="201" text-anchor="middle" fill="#c5f6ff" font-family="monospace" font-size="34">&lt;/&gt;</text>
+  <circle class="motion" r="7" fill="#58dbb4"><animateMotion dur="9s" repeatCount="indefinite"><mpath href="#track"/></animateMotion></circle>
+  <rect class="motion" x="251" y="94" width="10" height="20" fill="#58dbb4"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.45;.5;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>
