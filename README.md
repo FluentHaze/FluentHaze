@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/liuhui9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3200&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello%2C+I%27m+FF.;Frontend+engineering.;Performance.+Architecture.+Experience." width="600" alt="Hello, I'm FF. Frontend engineering. Performance, architecture, experience." /></a>
+  <a href="https://github.com/FluentHaze"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3200&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello%2C+I%27m+FF.;Frontend+engineering.;Performance.+Architecture.+Experience." width="600" alt="Hello, I'm FF. Frontend engineering. Performance, architecture, experience." /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/liuhui9?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-15324F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://github.com/liuhui9?tab=stars"><img src="https://img.shields.io/badge/Discover-My_Stars-15324F?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=58DBB4" alt="Browse my starred projects" /></a>
-  <img src="https://img.shields.io/github/followers/liuhui9?style=for-the-badge&amp;label=Followers&amp;color=15324F&amp;logo=github" alt="GitHub follower count" />
+  <a href="https://github.com/FluentHaze?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-15324F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/FluentHaze?tab=stars"><img src="https://img.shields.io/badge/Discover-My_Stars-15324F?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=58DBB4" alt="Browse my starred projects" /></a>
+  <img src="https://img.shields.io/github/followers/FluentHaze?style=for-the-badge&amp;label=Followers&amp;color=15324F&amp;logo=github" alt="GitHub follower count" />
 </p>
 
 ## 👋 我是 FF
@@ -23,7 +23,7 @@
 ```ts
 const developer = {
   name: 'FF',
-  github: 'liuhui9',
+  github: 'FluentHaze',
   focus: ['Frontend engineering', 'Web performance', 'Developer experience'],
   principles: ['Explicit state', 'Clear boundaries', 'Measurable improvements'],
   mindset: 'Understand the problem before choosing the abstraction',
@@ -100,10 +100,10 @@ const developer = {
 ## 📡 开源信号
 
 <p align="center">
-  <a href="https://github.com/liuhui9?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=liuhui9&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1B30&amp;title_color=7DD3FC&amp;icon_color=58DBB4&amp;text_color=C3D4EA&amp;border_radius=14" width="495" alt="FF 的 GitHub 公开活动统计" /></a>
+  <a href="https://github.com/FluentHaze?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=FluentHaze&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1B30&amp;title_color=7DD3FC&amp;icon_color=58DBB4&amp;text_color=C3D4EA&amp;border_radius=14" width="495" alt="FF 的 GitHub 公开活动统计" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/liuhui9?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=liuhui9&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1B30&amp;title_color=7DD3FC&amp;text_color=C3D4EA&amp;border_radius=14&amp;langs_count=8" width="495" alt="公开仓库中使用的语言分布" /></a>
+  <a href="https://github.com/FluentHaze?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FluentHaze&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1B30&amp;title_color=7DD3FC&amp;text_color=C3D4EA&amp;border_radius=14&amp;langs_count=8" width="495" alt="公开仓库中使用的语言分布" /></a>
 </p>
 
 <p align="center"><sub>基于公开数据生成；语言占比反映仓库代码分布。</sub></p>
@@ -111,8 +111,8 @@ const developer = {
 ## 🐍 每一次贡献，都留下轨迹
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuhui9/liuhui9/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuhui9/liuhui9/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FluentHaze/FluentHaze/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FluentHaze/FluentHaze/output/github-snake.svg" />
   <img alt="FF 的 GitHub 贡献贪吃蛇动画；首次运行 Actions 后生成" src="./assets/snake-pending.svg" width="100%" />
 </picture>
 
@@ -120,7 +120,7 @@ const developer = {
 
 ## 🔭 继续探索
 
-**[查看我的项目](https://github.com/liuhui9?tab=repositories)** · **[看看我收藏的工具](https://github.com/liuhui9?tab=stars)**
+**[查看我的项目](https://github.com/FluentHaze?tab=repositories)** · **[看看我收藏的工具](https://github.com/FluentHaze?tab=stars)**
 
 ---
 
